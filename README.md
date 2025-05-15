@@ -31,3 +31,5 @@ Cursr is a fun desktop-based Python app that tracks your mouse movement and clic
 
    ```bash
    pip install mouse
+
+3. **Run the File**
